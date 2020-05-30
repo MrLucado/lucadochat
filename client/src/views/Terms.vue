@@ -2,7 +2,7 @@
   <div class="terms page">
     <h2>Terms</h2>
 
-      <p>Thank you for using Blabber. Please read this Terms of Service agreement carefully before accessing or using our services. Because it is such an important contract between us and our users, we have kept it short and as clear as possible.
+      <p>Thank you for using LucadoChat. Please read this Terms of Service agreement carefully before accessing or using our services. Because it is such an important contract between us and our users, we have kept it short and as clear as possible.
 
         By using our services, you are agreeing to these terms.
       </p>
@@ -24,7 +24,7 @@
       <h3>About these Terms</h3>
       <p>We may modify these terms without warning and you should therefore look at the terms regularly.</p>
 
-      <p class="sub">If you have any questions or need more information about our terms of service, please contact us at <a href="mailto:hello@quotesnewtab.com">hello@quotesnewtab.com</a>.</p>
+      <p class="sub">If you have any questions or need more information about our terms of service, please contact us at <a href="twitter.com/JacobLucado">Twitter</a>.</p>
   </div>
 </template>
 

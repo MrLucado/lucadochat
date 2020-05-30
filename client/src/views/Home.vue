@@ -2,7 +2,7 @@
   <div class="home page">
     <div class="form-container">
       <div class="title">
-        <h1>Blabber</h1>
+        <h1>LucadoChat</h1>
         <p class="subtitle">Anonymous chatting {{ randomEmoji }}</p>
       </div>
 

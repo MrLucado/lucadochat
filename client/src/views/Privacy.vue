@@ -17,7 +17,7 @@
     <h3>Consent</h3>
     <p>By using our website and services, you hereby consent to the Privacy Policy and agree to its <router-link to="/terms">Terms and Conditions</router-link>.</p>
 
-    <p class="sub">If you have any questions or need more information about the privacy policy, please contact me at <a href="mailto:hello@emilcarlsson.se">hello@emilcarlsson.se</a>.</p>
+    <p class="sub">If you have any questions or need more information about the privacy policy, please contact me at <a href="twitter.com/JacobLucado">Twitter</a>.</p>
   </div>
 </template>
 

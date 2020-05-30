@@ -2,7 +2,7 @@
   <div class="chat">
     <aside>
       <div>
-        <h1 @click="leave()">Blabber</h1>
+        <h1 @click="leave()">LucadoChat</h1>
 
         <h3>
           <span class="title">
@@ -27,7 +27,7 @@
           <router-link to="/privacy">Privacy</router-link>
           <router-link to="/terms">Terms</router-link>
         </nav>
-        <p>Copyright {{ new Date().getFullYear() }}<span>&bullet;</span><a href="https://github.com/carlssonemil/blabber/releases">Version {{ version }}</a></p>
+        <p>Copyright {{ new Date().getFullYear() }}<span>&bullet;</span><a href="https://github.com//MrLucado">Version {{ version }}</a></p>
       </div>
     </aside>
 
