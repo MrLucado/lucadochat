@@ -50,7 +50,7 @@ async function embed(url) {
 function formatNotice(message) {
   const user = {
     id: 1,
-    username: 'Blabber Bot'
+    username: 'LucadoChat Bot'
   }
 
   return {

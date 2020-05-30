@@ -36,7 +36,7 @@ io.on('connection', async socket => {
     socket.join(user.room);
 
     // Welcome current user
-    socket.emit('messageChannel', formatNotice('Welcome to Blabber! 👋'));
+    socket.emit('messageChannel', formatNotice('Welcome to LucadoChat! 👋'));
 
     // Broadcast when a user connects
     socket.broadcast.to(user.room).emit(
