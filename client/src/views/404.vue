@@ -1,7 +1,7 @@
 <template>
   <div class="error page">
     <h1 class="error-title" data-shadow="404">404</h1>
-    <p class="error-subtitle">Dang, looks like you took a wrong turn and ended up on a missing page. 🤔</p>
+    <p class="error-subtitle">Dang, looks like you took a wrong turn and ended up on a missing page. You bot 🤔</p>
     <button @click="$router.push({ name: 'Home' })">Return to home</button>
   </div>
 </template>

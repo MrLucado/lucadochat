@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header v-if="showHeader">
-      <h1 @click="$router.push({ name: 'Home' })">Blabber</h1>
+      <h1 @click="$router.push({ name: 'Home' })">LucadoChat</h1>
       <button @click="$router.push({ name: 'Chat' })">{{ headerButtonText }}</button>
     </header>
 
@@ -15,6 +15,7 @@
         <router-link to="/support">Support</router-link>
         <router-link to="/privacy">Privacy</router-link>
         <router-link to="/terms">Terms</router-link>
+        <router-link to="http://paypal.me/Lucado0823">Donate</router-link>
       </nav>
     </footer>
   </div>
