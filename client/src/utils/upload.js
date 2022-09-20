@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const proxyURL = 'https://cors-anywhere.herokuapp.com/';
+const proxyURL = 'https://robwu.nl/cors-anywhere.html/';
 const uploadURL = 'https://uguu.se/api.php?d=upload-tool';
 
 async function upload(attachment) {
