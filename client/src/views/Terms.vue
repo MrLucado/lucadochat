@@ -24,7 +24,7 @@
       <h3>About these Terms</h3>
       <p>We may modify these terms without warning and you should therefore look at the terms regularly.</p>
 
-      <p class="sub">If you have any questions or need more information about our terms of service, please contact us at <a href="http://twitter.com/JacobLucado">Twitter</a>.</p>
+      <p class="sub">If you have any questions or need more information about our terms of service, please contact me at <a href="http://twitter.com/twit_user69">Twitter</a>.</p>
   </div>
 </template>
 
