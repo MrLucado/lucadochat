@@ -15,7 +15,7 @@
       </div>
     </div>
 
-    <p class="sub">If you have any questions or feature suggestions, please contact me at <a href="http://twitter.com/JacobLucado">Twitter</a>.</p>
+    <p class="sub">If you have any questions or feature suggestions, please contact me at <a href="http://twitter.com/twit_user69">Twitter</a>.</p>
   </div>
 </template>
 
