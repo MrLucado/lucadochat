@@ -23,7 +23,7 @@ export default new Vuex.Store({
   },
   actions: {
     getStoredUser(context) {
-      const user = localStorage.getItem('blabber');
+      const user = localStorage.getItem('LucadoChat');
       context.commit('SET_USER', JSON.parse(user));
       context.dispatch('storeUser');
     },
@@ -39,7 +39,7 @@ export default new Vuex.Store({
     },
 
     storeUser() {
-      localStorage.setItem('blabber', JSON.stringify(this.state.user));
+      localStorage.setItem('LucadoChat', JSON.stringify(this.state.user));
     }
   },
   modules: {
