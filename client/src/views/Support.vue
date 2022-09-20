@@ -2,7 +2,7 @@
   <div class="support page">
     <h2>Support</h2>
     <p>Feel free to contact me with any questions, bugs or feature requests.</p>
-    <a href="http://twitter.com/JacobLucado">Twitter</a>
+    <a href="http://twitter.com/twit_user69">Twitter</a>
     
   </div>
 </template>
